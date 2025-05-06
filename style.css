@@ -1,0 +1,57 @@
+body {
+	background-color: #5D737E;
+	color: #163846;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.container {
+	background-color: #CEDAE3;
+	padding: 10px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 10px;
+	border: 10px solid #30292F;
+}
+
+h1 {
+	margin: 20px;
+	padding: 10px;
+	font-family: "Revalia", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+details {
+	margin-bottom: 20px;
+}
+
+img {
+	height: 300px;
+	margin-bottom: 40px;
+	width: 60%;
+}
+
+button {
+
+}
+
+footer {
+	text-align: center;
+}
+
+#pic {
+	margin-top: 240px;
+}
+
+input {
+	margin-bottom: 20px;
+}
+
+h5 {
+	margin-top: 40px;
+	border-radius: 10px;
+	background-color: #FFE8DC;
+	padding: 15px;
+}
+
